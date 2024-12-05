@@ -1,10 +1,10 @@
 ## Overview
 SFE-Finder is a quantum machine learning project that aims to predict Stacking Fault Energy (SFE) values for various elements using their physical properties. This project leverages quantum computing techniques, specifically using PennyLane, to create a hybrid quantum-classical model for SFE prediction.
 ## Features
-  Utilizes quantum circuits for feature processing
-  Implements a hybrid quantum-classical model
-  Predicts SFE values based on electronegativity, bulk modulus, and atomic volume
-  Provides data preprocessing and model training scripts
+  - Utilizes quantum circuits for feature processing
+  - Implements a hybrid quantum-classical model
+  - Predicts SFE values based on electronegativity, bulk modulus, and atomic volume
+  - Provides data preprocessing and model training scripts
 ## Requirements
   Python 3.7+
   PennyLane
