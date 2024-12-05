@@ -18,10 +18,12 @@ The project uses a dataset (qml_training-validation-data.csv) containing the fol
   - Atomic volume (Volume/A^3)
   - Stacking Fault Energy (SFE/mJm^-3) as the target variable
   - Model Architecture
+
 The quantum part of the model consists of:
   - Input encoding using RY rotations
   - Parameterized quantum circuits with RX, RY, and RZ rotations
   - Measurement of expectation values of Pauli Z operators
+
 The classical part includes:
   - Data preprocessing and scaling
   - Optimization using gradient descent
