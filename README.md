@@ -27,6 +27,9 @@ The classical part includes:
   - Optimization using gradient descent
   - Cost function based on Mean Absolute Error
 ## Results
-The model's performance is evaluated using Mean Absolute Error (MAE) and R-squared score. Current results and any visualizations can be found in the notebook.
+The model's performance is evaluated using Mean Absolute Error (MAE) and R-squared score. Current results and any visualizations can be found in the notebook. The accuracy is 96%.
+![image](https://github.com/user-attachments/assets/39dc2aa2-36a0-4a86-ab46-d05751a3c350)
+![image](https://github.com/user-attachments/assets/35153daa-4efa-4955-9d52-887fb8350439)
+![image](https://github.com/user-attachments/assets/111470fd-d91e-47e3-8853-bead562a4581)
 ## Contributing
 Contributions to improve the model's accuracy, efficiency, or to extend its capabilities are welcome. Please feel free to submit pull requests or open issues for discussion.
